@@ -59,8 +59,8 @@ docker network create -d overlay postgres
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/ViniB-A/stack-de-treinamento.git
+cd stack-de-treinamento
 ```
 
 2. Crie as redes Docker necessárias:
