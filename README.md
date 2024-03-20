@@ -91,4 +91,6 @@ Agora, você terá os bancos de dados e as plataformas de administração em exe
 
 Lembre-se de ajustar as portas conforme necessário e consulte a documentação de cada plataforma para obter informações de login e configuração específicas.
 
-**Nota:** Certifique-se de ter o Docker e o Docker Compose instalados em seu sistema antes de utilizar este repositório.
+**Notas:** 
+- Certifique-se de ter o Docker e o Docker Compose instalados em seu sistema antes de utilizar este repositório.
+- Recomendo a utilização do [Play with Docker](https://labs.play-with-docker.com/) para montar o ambiente.
