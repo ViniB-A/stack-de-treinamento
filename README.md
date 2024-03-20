@@ -85,9 +85,9 @@ docker stack deploy -c docker-compose-admin.yml admin
 
 Agora, você terá os bancos de dados e as plataformas de administração em execução. Acesse as plataformas de administração pelos seguintes URLs:
 
-- Adminer: [http://localhost:8080](http://localhost:8087)
-- phpMyAdmin: [http://localhost:8181](http://localhost:8080)
-- MongoDB Express: [http://localhost:8282](http://localhost:8081)
+- Adminer: [http://localhost:8087](http://localhost:8087)
+- phpMyAdmin: [http://localhost:8080](http://localhost:8080)
+- MongoDB Express: [http://localhost:8081](http://localhost:8081)
 
 Lembre-se de ajustar as portas conforme necessário e consulte a documentação de cada plataforma para obter informações de login e configuração específicas.
 
